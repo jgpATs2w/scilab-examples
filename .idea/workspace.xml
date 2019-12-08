@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd6d094c-3396-4ed4-b8e9-a4a84fb5b511" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1U0pKcpoefa3BwWHSMsCbITSJKI" />
+  <component name="PropertiesComponent">
+    <property name="MATLAB_INTERPRETER" value="scilab" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="2d_3d_plots.dem.gateway.sce" type="MatlabApplication" factoryName="Matlab" temporary="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/graphics-demos/2d_3d_plots/2d_3d_plots.dem.gateway.sce" />
+      <option name="INTERPRETER_PATH" value="scilab" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="PARAMETERS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="-nw -f" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MatlabApplication" factoryName="Matlab">
+      <option name="FILE_PATH" value="" />
+      <option name="INTERPRETER_PATH" value="scilab" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="PARAMETERS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="-nw" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Matlab.2d_3d_plots.dem.gateway.sce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd6d094c-3396-4ed4-b8e9-a4a84fb5b511" name="Default Changelist" comment="" />
+      <created>1574503303461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574503303461</updated>
+      <workItem from="1574503305065" duration="235000" />
+      <workItem from="1574503562899" duration="3039000" />
+      <workItem from="1575096307817" duration="294000" />
+      <workItem from="1575096608887" duration="386000" />
+      <workItem from="1575128367018" duration="1223000" />
+      <workItem from="1575143413804" duration="110000" />
+      <workItem from="1575745142028" duration="8068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
